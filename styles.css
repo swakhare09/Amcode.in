@@ -1,0 +1,37 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat";
+  text-align: center;
+  background-color: coral;
+  background-image: url(/pics/wallpaper.jpeg);
+  color: #ccffff;
+}
+.social-icon {
+  margin: 20px 10px;
+  color: #fff;
+}
+
+#brand_name{
+  text-decoration: none;
+  color: #0c65f5;
+}
+
+#brand_name:hover{
+  color: #1a3766;
+}
+img{
+  width: 400px;
+  height:400px;
+}
+
+h3{
+  color: #C4B8B5;
+}
+.h2{
+  color:#574D4B;
+}
